@@ -39,8 +39,8 @@ A full-featured **Student Management System** built with **Django**, **MongoDB**
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/student-management-docker.git
-cd student-management-docker
+git clone https://github.com/your-username/student-management-shubhcoding.git
+cd student-management-shubhcoding
 
 # Build & run containers
 docker-compose up --build
